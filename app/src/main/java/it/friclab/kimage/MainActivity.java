@@ -14,7 +14,7 @@ public class MainActivity extends Activity {
 
 
     private WebView wv1;
-    private String URL = "http://www.kimage.ch/demo/Mendrisio/";
+    private String URL = "https://www.kimagestudio.com/mauchi2/";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
